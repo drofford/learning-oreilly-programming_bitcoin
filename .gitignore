@@ -1,0 +1,8 @@
+*~
+*.pyc
+*.whl
+*.gz
+bin/
+dist/*
+__pytest_cache__/
+__pycache__/
